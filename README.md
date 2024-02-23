@@ -1,2 +1,2 @@
 # solarized-osaka-helix
-Solarized Osaka theme for Helix Editor
+![Preview](./preview.png?raw=true "Title")
