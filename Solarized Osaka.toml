@@ -49,9 +49,9 @@
 "diff.delta" = { fg = "orange900" }
 "diff.minus" = { fg = "red900" }
 
-# Uncomment for solid backgroudn
-# "ui.background" - { bg = "base04" }
-"ui.background" = {}
+# Uncomment for transparent background
+# "ui.background" = {}
+"ui.background" - { bg = "base04" }
 
 "ui.virtual.whitespace" = { fg = "base01" }
 "ui.virtual.inlay-hint" = { fg = "base01", modifiers = ["italic"] }
