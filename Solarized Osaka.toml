@@ -35,23 +35,23 @@
 "variable.other.member" = { fg = "blue500" }
 
 # TODO
-"markup.heading" = "green900"
+"markup.heading" = "green300"
 "markup.list" = "red300"
 "markup.bold" = { fg = "yellow500", modifiers = ["bold"] }
-"markup.italic" = { fg = "magenta900", modifiers = ["italic"] }
+"markup.italic" = { fg = "magentac300", modifiers = ["italic"] }
 "markup.strikethrough" = { modifiers = ["crossed_out"] }
-"markup.link.url" = { fg = "yellow900", modifiers = ["underlined"] }
-"markup.link.text" = "blue500"
-"markup.quote" = "cyan900"
-"markup.raw" = "green900"
+"markup.link.url" = { fg = "yellow300", modifiers = ["underlined"] }
+"markup.link.text" = "blue300"
+"markup.quote" = "cyan300"
+"markup.raw" = "green300"
 
 "diff.plus" = { fg = "green900" }
 "diff.delta" = { fg = "orange900" }
 "diff.minus" = { fg = "red900" }
 
-# Uncomment for transparent background
-# "ui.background" = {}
+# Uncomment for solid backgroudn
 "ui.background" = { bg = "base04" }
+# "ui.background" = {}
 
 "ui.virtual.whitespace" = { fg = "base01" }
 "ui.virtual.inlay-hint" = { fg = "base01", modifiers = ["italic"] }
